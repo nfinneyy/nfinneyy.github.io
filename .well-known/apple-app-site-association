@@ -1,24 +1,4 @@
 {
-  "applinks": {
-    "details": [
-      {
-        "appIDs": [
-          "VLL23B92BN.com.giveducation.meetingminutesapp"
-        ],
-        "components": [
-          {
-            "/": "*",
-            "comment": "Matches all routes"
-          }
-        ]
-      }
-    ]
-  },
-  "activitycontinuation": {
-    "apps": [
-      "VLL23B92BN.com.giveducation.meetingminutesapp"
-    ]
-  },
   "webcredentials": {
     "apps": [
       "VLL23B92BN.com.giveducation.meetingminutesapp"
