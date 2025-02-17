@@ -11,5 +11,9 @@
         "61:F2:31:6F:BD:43:74:43:01:B4:75:00:07:8C:01:74:EE:86:91:56:C5:4D:06:CF:D2:AA:B5:B5:3D:D1:3F:7A"
       ]
     }
-  }
+  },
+  {
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target" : { "namespace": "web", "site": "https://nfinneyy.github.io" }
+}
 ]
