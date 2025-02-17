@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.giveducation.meetingminutesapp",
+      "sha256_cert_fingerprints": [
+        "ED:D5:0A:1C:81:D2:68:53:1C:2F:E0:BC:2F:7F:52:3F:37:14:A6:81:91:E3:54:88:0D:6A:45:C2:AE:6E:73:4A"
+      ]
+    }
+  }
+]
